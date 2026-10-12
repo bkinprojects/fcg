@@ -68,3 +68,6 @@ A single-file, zero-dependency browser-based Texas Hold'em poker simulator with 
   - REBUY: Add chips back to your stack after busting.
   - TABLE CONFIG: Access setup options to customize opponents, blinds, and starting stacks.
   - SETTINGS: Configure AI difficulty, animation speed, font size, colors, and display options.
+ 
+
+  https://bkinprojects.github.io/fcg
