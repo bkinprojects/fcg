@@ -1,4 +1,4 @@
-### Poker Simulator
+# Poker Simulator
 
 A single-file, zero-dependency browser-based Texas Hold'em poker simulator with a retro blueprint CAD aesthetic.
 
